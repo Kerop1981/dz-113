@@ -46,7 +46,7 @@
     border-radius: 12px;
 } 
 
-.modal_close-btn{
+.modal__close-btn{
     position:absolute;
     top: 5px;
     right: 10px;
