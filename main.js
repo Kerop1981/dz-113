@@ -1,5 +1,5 @@
 const btn = document.querySelector('.btn-open')
-const modal = document.querySelector('modal')
+const modal = document.querySelector('.modal')
 const body = document.body
 
 const openModal = () => {
